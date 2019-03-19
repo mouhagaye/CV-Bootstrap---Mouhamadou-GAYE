@@ -1,0 +1,27 @@
+{
+  "name": "projetbootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mouhagaye/CV-Bootstrap---Mouhamadou-GAYE.git"
+  },
+  "author": "Mouhamadou GAYE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mouhagaye/CV-Bootstrap---Mouhamadou-GAYE/issues"
+  },
+  "homepage": "https://github.com/mouhagaye/CV-Bootstrap---Mouhamadou-GAYE#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.3.1",
+    "lite-server": "^2.4.0",
+    "popper.js": "^1.14.7"
+  }
+}
